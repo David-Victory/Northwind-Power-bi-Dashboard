@@ -48,12 +48,17 @@ An interactive 3-page Power BI dashboard built on the Northwind sample database.
 
 ## Key Insights
 
-> Fill these in from your own dashboard, e.g.:
-- Top category by sales: **\_\_\_** (\_\_% of total)
-- Top country by sales: **\_\_\_**
-- Best-selling product by revenue: **\_\_\_**
-- Sales peaked in **\_\_\_** (month/year)
-- Most expensive shipper: **\_\_\_**
+## Key Insights
+
+- **Overall:** $1.35M in total sales across 830 orders and 51,317 units sold, with an average order value of about $1,632
+- **Top category:** Beverages, $287K (21.2% of total sales), followed by Dairy Products (18.6%)
+- **Top country:** USA, $264K, closely followed by Germany at $245K
+- **Best-selling product by revenue:** Côte de Blaye, $150K
+- **Best-selling product by units:** Camembert Pierrot, 1,577 units
+- **Peak month:** April 2015, $135K in sales
+- **Top customer:** QUICK-Stop, $117K
+- **Top employee:** Margaret Peacock, $250K in sales
+- **Most expensive shipper:** United Package, $28K in shipping cost, out of $65K total freight
 
 ## Data Preparation (Power Query)
 
