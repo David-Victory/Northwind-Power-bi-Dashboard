@@ -2,7 +2,7 @@
 
 An interactive 3-page Power BI dashboard built on the Northwind sample database. It tracks sales performance, product performance, and customer/order behavior, with filters for year, quarter, country, and product category.
 
-![Sales Overview](images/SALES20OVERVIEW.png)
+ ![Sales Overview](images/SALES%20OVERVIEW.png)
 ![Product Analysis](images/PRODUCT%20ANALYSIS.png)
 ![Customers & Orders](images/CUSTOMERS%20%26%20ORDERS.png)
 
