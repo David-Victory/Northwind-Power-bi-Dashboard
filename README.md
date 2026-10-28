@@ -97,4 +97,4 @@ northwind-powerbi-dashboard/
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio-link)
+**Okoro David-Victory** · [LinkedIn](https://www.linkedin.com/in/david-victory-okoro-19b0b8414/) · [GitHub](https://github.com/David-Victory)
